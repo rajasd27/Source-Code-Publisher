@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+    margin : 3% 4%;
+    background-color : #DFECF7;
+    font-family : "Courier New", Courier, monospace;
+}
+
+.back {
+    background-color: #44E4AE;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+    
+button {
+    background-color: #9C918E;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#button1 {
+    background-color: #808080;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+</style>
+
+<script src = "../Converter/javaScript.js"></script>
